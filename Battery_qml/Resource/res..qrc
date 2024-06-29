@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="">
+        <file>Battery.qml</file>
+        <file>MySlider.qml</file>
+    </qresource>
+</RCC>
