@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Content.qml</file>
+        <file>Resource/FileTransfer.qml</file>
+        <file>Resource/Friend.qml</file>
+        <file>Resource/line.png</file>
+        <file>Resource/main.qml</file>
+        <file>Resource/ToolsBar.qml</file>
+        <file>Resource/UserLogin.qml</file>
+    </qresource>
+</RCC>
